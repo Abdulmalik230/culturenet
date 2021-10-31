@@ -1,0 +1,61 @@
+body{
+    background-image:url(img/hh.jpeg);
+}
+h4{
+    background-color: green;
+    padding: 12px;
+    background-size:50px;
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    
+}
+li{
+    display:inline-block;
+    text-align: center;
+    width: 5em;
+    color: red;
+}
+header{
+    background-color:green;
+    padding:1px;
+    box-sizing: 50px;
+    width: 500px;
+    text-align: center;
+    margin-top: -93px;
+    margin-left: -20px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    height: 30em;
+    border-radius: 10%;
+}
+section{
+    text-align: center;
+}
+ .ade a{
+    color: red;
+}
+ a{
+    color:black;
+}
+.one{
+    color:black;
+}
+h2{
+    color: white;
+}
+.ttt{
+    text-align: right;
+}
+img{
+    border-radius: 10%;
+    width:20em;
+    height:20em ;
+}
